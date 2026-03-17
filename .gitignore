@@ -1,0 +1,32 @@
+\# 忽略 Java 编译文件
+
+target/
+
+\*.class
+
+
+
+\# 忽略 Vue/前端依赖
+
+node\_modules/
+
+dist/
+
+
+
+\# 忽略 IDE 配置
+
+.idea/
+
+.vscode/
+
+\*.iml
+
+
+
+\# 忽略系统临时文件
+
+.DS\_Store
+
+Thumbs.db
+
